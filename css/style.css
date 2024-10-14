@@ -5,16 +5,34 @@ header{
   background-size: auto 200%;
   background-repeat: repeat;
 }
+header .logo {
+  width: 190px;
+} 
 body{
   margin: 0;
 }
 h1{
   font-size: 50px;
 }
+p.author{
+  font-size: 30px;
+  color: grey;
+}
+span.author{
+  color: #1dabe4;
+}
+p.date{
+  font-size: 20px;
+  color: grey;
+}
 
-header .logo {
-  width: 190px;
-} 
+p.caption{
+  font-size: 10px;
+}
+
+span.highlight{
+  background-color: yellow;
+}
 
 table{
   width: 100%;
@@ -31,3 +49,4 @@ th {
 tr.even {
   background-color: #b1e6f2;
 }
+
