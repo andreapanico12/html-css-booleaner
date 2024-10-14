@@ -24,5 +24,10 @@ table{
 th {
   text-align: left;
   background-color: #1dabe4;
-  color: white;
+  color: white; 
+  width: 25%;
+}
+
+tr.even {
+  background-color: #b1e6f2;
 }
