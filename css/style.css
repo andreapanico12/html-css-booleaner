@@ -1,0 +1,28 @@
+header{
+  height: 100px;
+  background-image: url(/img/pattern.png);
+  background-color: #4d9ffc;
+  background-size: auto 200%;
+  background-repeat: repeat;
+}
+body{
+  margin: 0;
+}
+h1{
+  font-size: 50px;
+}
+
+header .logo {
+  width: 190px;
+} 
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  background-color: #1dabe4;
+  color: white;
+}
